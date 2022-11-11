@@ -88,7 +88,7 @@ Documentation
 .. toctree::
    :maxdepth: 2
 
-   /pyasn1/contents
+   /pyasn1/index
 
 Use case
 --------
