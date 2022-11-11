@@ -139,10 +139,10 @@ type's values.
 .. toctree::
    :maxdepth: 2
 
-   /pyasn1/type/base/contents
-   /pyasn1/type/univ/contents
-   /pyasn1/type/char/contents
-   /pyasn1/type/useful/contents
+   /pyasn1/type/base/index
+   /pyasn1/type/univ/index
+   /pyasn1/type/char/index
+   /pyasn1/type/useful/index
 
 ASN.1 type harness
 ++++++++++++++++++
@@ -155,11 +155,11 @@ its :ref:`fields <type.namedtype>` specification.
 .. toctree::
    :maxdepth: 2
 
-   /pyasn1/type/tag/contents
-   /pyasn1/type/constraint/contents
-   /pyasn1/type/namedtype/contents
-   /pyasn1/type/opentype/contents
-   /pyasn1/type/namedval/contents
+   /pyasn1/type/tag/index
+   /pyasn1/type/constraint/index
+   /pyasn1/type/namedtype/index
+   /pyasn1/type/opentype/index
+   /pyasn1/type/namedval/index
 
 .. _pyasn1-codecs:
 
@@ -209,10 +209,10 @@ implemented in pyasn1.
 .. toctree::
    :maxdepth: 2
 
-   /pyasn1/codec/ber/contents
-   /pyasn1/codec/cer/contents
-   /pyasn1/codec/der/contents
-   /pyasn1/codec/native/contents
+   /pyasn1/codec/ber/index
+   /pyasn1/codec/cer/index
+   /pyasn1/codec/der/index
+   /pyasn1/codec/native/index
 
 Exceptions
 ----------
@@ -225,4 +225,4 @@ The exception hierarchy is as follows (ordered from least specific).
 .. toctree::
    :maxdepth: 2
 
-   /pyasn1/error/contents
+   /pyasn1/error/index
