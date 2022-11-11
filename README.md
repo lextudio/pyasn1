@@ -162,7 +162,7 @@ Python built-ins codecs. The extremely compact PER encoding is expected
 to be introduced in the upcoming pyasn1 release.
 
 More information on pyasn1 APIs can be found in the
-[documentation](http://snmplabs.com/pysnmp/pyasn1/docs),
+[documentation](https://www.pysnmp.com/pyasn1/),
 compiled ASN.1 modules for different protocols and file formats
 could be found in the pyasn1-modules 
 [repo](https://github.com/pysnmp/pyasn1-modules).
@@ -170,9 +170,9 @@ could be found in the pyasn1-modules
 How to get pyasn1
 -----------------
 
-This project is forked from pyasn1. The pyasn1 package is distributed under terms
-and conditions of 2-clause BSD [license](http://snmplabs.com/pyasn1/license.html). 
-Source code is freely available as a GitHub [repo](https://github.com/pysnmp/pyasn1).
+This project is forked from pyasn1. The pyasn1 package is distributed under terms and conditions of 2-clause
+BSD [license](https://www.pysnmp.com/pyasn1/license.html). Source code is freely
+available as a GitHub [repo](https://github.com/etingof/pyasn1).
 
 You could `pip install pysnmp-pyasn1` or download it from [PyPI](https://pypi.org/project/pysnmp-pyasn1).
 
