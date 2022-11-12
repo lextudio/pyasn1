@@ -3,6 +3,7 @@
 # This file is part of pyasn1 software.
 #
 # Copyright (c) 2005-2020, Ilya Etingof <etingof@gmail.com>
+# Copyright (c) 2022, LeXtudio Inc. <support@lextudio.com>
 # License: https://www.pysnmp.com/pyasn1/license.html
 #
 import os
@@ -70,10 +71,10 @@ params.update({
     'version': open(os.path.join('pyasn1', '__init__.py')).read().split('\'')[1],
     'description': 'ASN.1 types and codecs',
     'long_description': 'Pure-Python implementation of ASN.1 types and DER/BER/CER codecs (X.208)',
-    'maintainer': 'Ilya Etingof <etingof@gmail.com>',
-    'author': 'Ilya Etingof',
-    'author_email': 'etingof@gmail.com',
-    'url': 'https://github.com/etingof/pyasn1',
+    'maintainer': 'Lex Li <support@lextudio.com>',
+    'author': 'LeXtudio Inc.',
+    'author_email': 'support@lextudio.com',
+    'url': 'https://github.com/lextudio/pyasn1',
     'platforms': ['any'],
     'classifiers': [x for x in classifiers.split('\n') if x],
     'license': 'BSD',

@@ -131,10 +131,10 @@ The PyASN1 software is distributed under 2-clause BSD License.
 Getting help
 ------------
 
-Please, file your `issues <https://github.com/etingof/pyasn1/issues>`_
-and `PRs <https://github.com/etingof/pyasn1/pulls>`_ at GitHub.
+Please, file your `issues <https://github.com/lextudio/pysnmp/issues>`_
+and `PRs <https://github.com/lextudio/pyasn1/pulls>`_ at GitHub.
 Alternatively, you could ask for help at
-`Stack Overflow <http://stackoverflow.com/questions/tagged/pyasn1>`_
+`Stack Overflow <http://stackoverflow.com/questions/tagged/pysnmp>`_
 or search
 `pyasn1-users <https://lists.sourceforge.net/lists/listinfo/pyasn1-users>`_
 mailing list archive.
