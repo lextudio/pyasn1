@@ -1,10 +1,9 @@
 
 ASN.1 library for Python
 ------------------------
-[![PyPI](https://img.shields.io/pypi/v/pysnmp-pyasn1.svg?maxAge=2592000)](https://pypi.org/project/pysnmp-pyasn1)
-[![Python Versions](https://img.shields.io/pypi/pyversions/pysnmp-pyasn1.svg)](https://pypi.org/project/pysnmp-pyasn1/)
-[![CI](https://github.com/pysnmp/pyasn1/actions/workflows/build-test-release.yml/badge.svg)](https://github.com/pysnmp/pyasn1/actions/workflows/build-test-release.yml)
-[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/pysnmp/pyasn1/master/LICENSE.txt)
+[![PyPI](https://img.shields.io/pypi/v/pyasn1.svg?maxAge=2592000)](https://pypi.org/project/pyasn1)
+[![Python Versions](https://img.shields.io/pypi/pyversions/pyasn1.svg)](https://pypi.org/project/pyasn1/)
+[![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/lextudio/pyasn1/master/LICENSE.txt)
 
 This is a free and open source implementation of ASN.1 types and codecs
 as a Python package. It has been first written to support particular
@@ -165,23 +164,24 @@ More information on pyasn1 APIs can be found in the
 [documentation](https://www.pysnmp.com/pyasn1/),
 compiled ASN.1 modules for different protocols and file formats
 could be found in the pyasn1-modules 
-[repo](https://github.com/pysnmp/pyasn1-modules).
+[repo](https://github.com/lextudio/pyasn1-modules).
 
 How to get pyasn1
 -----------------
 
 This project is forked from pyasn1. The pyasn1 package is distributed under terms and conditions of 2-clause
 BSD [license](https://www.pysnmp.com/pyasn1/license.html). Source code is freely
-available as a GitHub [repo](https://github.com/etingof/pyasn1).
+available as a GitHub [repo](https://github.com/lextudio/pyasn1).
 
 You could `pip install pysnmp-pyasn1` or download it from [PyPI](https://pypi.org/project/pysnmp-pyasn1).
 
 If something does not work as expected, 
-[open an issue](https://github.com/pysnmp/pyasn1/issues) at GitHub or
+[open an issue](https://github.com/lextudio/pysnmp/issues) at GitHub or
 post your question [on Stack Overflow](https://stackoverflow.com/questions/ask)
 or try browsing pyasn1 .
 
 Copyright (c) 2005-2020, [Ilya Etingof](mailto:etingof@gmail.com).
+Copyright (c) 2022, [LeXtudio Inc.](mailto:support@lextudio.com).
 All rights reserved.
 Copyright (c) 2021- [Splunk Inc.]
 
