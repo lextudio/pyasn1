@@ -1,8 +1,8 @@
 
 ASN.1 library for Python
 ------------------------
-[![PyPI](https://img.shields.io/pypi/v/pyasn1.svg?maxAge=2592000)](https://pypi.org/project/pyasn1)
-[![Python Versions](https://img.shields.io/pypi/pyversions/pyasn1.svg)](https://pypi.org/project/pyasn1/)
+[![PyPI](https://img.shields.io/pypi/v/pyasn1-lextudio.svg?maxAge=2592000)](https://pypi.org/project/pyasn1-lextudio)
+[![Python Versions](https://img.shields.io/pypi/pyversions/pyasn1-lextudio.svg)](https://pypi.org/project/pyasn1-lextudio/)
 [![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/lextudio/pyasn1/master/LICENSE.txt)
 
 This is a free and open source implementation of ASN.1 types and codecs
