@@ -181,7 +181,6 @@ post your question [on Stack Overflow](https://stackoverflow.com/questions/ask)
 or try browsing pyasn1 .
 
 Copyright (c) 2005-2020, [Ilya Etingof](mailto:etingof@gmail.com).
+Copyright (c) 2021-2022, Splunk Inc.
 Copyright (c) 2022, [LeXtudio Inc.](mailto:support@lextudio.com).
 All rights reserved.
-Copyright (c) 2021- [Splunk Inc.]
-
