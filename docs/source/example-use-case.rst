@@ -56,7 +56,7 @@ there. Then just install the package, import the data structure you need and use
 
 .. code-block:: bash
 
-    $ pip install pyasn1-modules
+    $ pip install pyasn1-modules-lextudio
 
 As a last resort, you could express ASN.1 in Python by hand. The end result
 should be a declarative Python code resembling original ASN.1 syntax like

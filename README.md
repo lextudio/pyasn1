@@ -171,7 +171,7 @@ The pyasn1 package is distributed under terms and conditions of 2-clause
 BSD [license](https://www.pysnmp.com/pyasn1/license.html). Source code is freely
 available as a GitHub [repo](https://github.com/lextudio/pyasn1).
 
-You could `pip install pyasn1` or download it from [PyPI](https://pypi.org/project/pyasn1).
+You could `pip install pyasn1-lextudio` or download it from [PyPI](https://pypi.org/project/pyasn1-lextudio).
 
 If something does not work as expected, 
 [open an issue](https://github.com/lextudio/pysnmp/issues) at GitHub or
