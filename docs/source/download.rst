@@ -14,13 +14,13 @@ The best way to obtain PyASN1 is by running `pip`:
 
    $ virtualenv venv
    $ source venv/bin/activate
-   $ pip install pyasn1
+   $ pip install pyasn1-lextudio
 
-You may also want to use `pyasn1-modules`:
+You may also want to use `pyasn1-modules-lextudio`:
 
 .. code-block:: bash
 
-   $ pip install pyasn1-modules
+   $ pip install pyasn1-modules-lextudio
 
 Alternatively, you can download the latest release from
 `GitHub <https://github.com/lextudio/pyasn1/releases>`_
