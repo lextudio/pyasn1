@@ -5,6 +5,7 @@
 # License: https://www.pysnmp.com/pyasn1/license.html
 #
 
+ints2octs = bytes
 # noinspection PyPep8
 int2oct = lambda x: bytes((x,))
 null = bytes()
