@@ -2,6 +2,7 @@
 ASN.1 library for Python
 ------------------------
 [![PyPI](https://img.shields.io/pypi/v/pyasn1-lextudio.svg?maxAge=2592000)](https://pypi.org/project/pyasn1-lextudio)
+[![PyPI Downloads](https://img.shields.io/pypi/dd/pyasn1-lextudio)](https://pypi.python.org/pypi/pyasn1-lextudio/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/pyasn1-lextudio.svg)](https://pypi.org/project/pyasn1-lextudio/)
 [![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)](https://raw.githubusercontent.com/lextudio/pyasn1/master/LICENSE.txt)
 
