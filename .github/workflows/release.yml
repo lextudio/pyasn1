@@ -1,4 +1,4 @@
-name: CI
+name: Manual
 
 on:
   push:
