@@ -24,4 +24,4 @@ You may also want to use `pyasn1-modules-lextudio`:
 
 Alternatively, you can download the latest release from
 `GitHub <https://github.com/lextudio/pyasn1/releases>`_
-or `PyPI <https://pypi.org/project/pyasn1>`_.
+or `PyPI <https://pypi.org/project/pyasn1-lextudio>`_.
